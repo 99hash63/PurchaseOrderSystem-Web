@@ -15,5 +15,5 @@ And management staff to:
 • Add Suppliers/Goods and Site managers to the system
 • Assign budgets to sites
 
-Web App - https://github.com/99hash63/PurchaseOrderSystem-Web \n
+Web App - https://github.com/99hash63/PurchaseOrderSystem-Web 
 Mobile App - https://github.com/99hash63/PurchaseOrderSystem-Mobile.git
